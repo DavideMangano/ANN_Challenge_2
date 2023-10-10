@@ -1,6 +1,6 @@
-# Challenge svolta per il corso di Artificial Neural Networks al Politecnico di Milano.
+# Challenge done as part of the Artificial Neural Networks course at Politecnico di Milano.
 
-Prediction task svolto con un ensemble model [DefModel]().
+Prediction task done with [ensemble model]().
 
 # For more information see the [Report]()
 
