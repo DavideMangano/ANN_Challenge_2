@@ -2,6 +2,6 @@
 
 Prediction task done with [ensemble model]().
 
-# For more information see the [Report]()
+# For more information see the [Report](https://github.com/DavideMangano/ANN_Challenge_2/blob/main/Final_Version/Report.pdf)
 
 Score: 5/5
